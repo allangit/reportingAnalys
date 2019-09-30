@@ -14,6 +14,12 @@ int main(){
 
 	}
 
+	if(x==1) {
+
+
+		printf("Valor numerico");
+	}
+
 
 	return 0;
 }
