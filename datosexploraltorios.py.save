@@ -1,0 +1,11 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+df=pd.read_csv("bank.csv",sep=";")
+print df.head()
+print df.shape
+print df.columns.values
+df2["y"]=(df["y"]=="yes")).astype(int)
+print df2
